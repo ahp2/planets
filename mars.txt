@@ -1,4 +1,7 @@
-Hello Mars
-
-on second thought, mars isn't that greatBut the Mummy will appreciate the lack of humidity
+Cold and dry, but everything is my favorite color
+On second thought, mars isn't that great
+But the Mummy will appreciate the lack of humidity
+Note: CONFLICT resolve:
 We added a different line in the other copy
+This line added to Wolfman's copy
+Yay!!
